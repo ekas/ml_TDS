@@ -1,0 +1,104 @@
+{
+    "9954": [
+        "Construction services",
+        "Materials \nLabour charges\nConstruction services\nConstruction/erection/commissioning/installation/completion of complex/structure/building\nWorks contract\nRepair/maintenance/renovation/alteration/remodeling of structure/building/complex\nSite preparation services\nDemolition services\nSite formation and clearance services\nExcavating and earthmoving services\nWater well drilling services\nInstallation/assembly/erection services\nPile driving and foundation services\nBuilding/roof framing services\nConcrete services\nMasonry services\nScaffolding services\nElectrical installation\nWater plumbing \nHeating/ventilation/air conditioner installation\nGas fitting installation services\nInsulation services\nLift and escalator installation\nGlazing/plastering services\nPainting services\nPayment to worker \nPayment to servicer\nFloor and wall tiling services\nCarpentry services\nFencing and railing services\nCladding and Panel work\nWorkstations - Running Counter (Providing, Making & Fixing of Wooden Laminated workstation 600mm wide running counter as per requirement complete with required vertical supports as per requirement)",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9963": [
+        "Accommodation in hotel",
+        "Accommodation in hotel, inn, guest house, club for residential purpose   \nRoom/unit accommodation services \nCamp site services\nRecreational and vacation camp services",
+        "194I",
+        0.1
+    ],
+    "9964": [
+        "Passenger transport services",
+        "Local transport of passengers\nTaxi services\nBus and coach charter services\nLocal water transport services\nAir transport services of passengers",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9965": [
+        "Goods transport services",
+        "Road transport services of goods \nInland water transport services\nAir transport services\n\n",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9966": [
+        "Rental services of transport vehicles",
+        "Rental services of road vehicles/water vessels/transport vehicles  \nEmployee pick up & drop charges ",
+        "194I",
+        0.02
+    ],
+    "9967": [
+        "Supporting services in transport",
+        "Cargo handling services\nAgency, handling, documentation, loading and unloading charges, warehouse charges, octroi processing\nClearing and forwarding sevices\nStorage and warehousing charges\nBus station services\nRailway pushing/towing services\nAirport operation services\nAir traffic control services\nGoods transport agency\nParking charges\nBike parking charges",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9968": [
+        "Postal and courier services",
+        "Postal services\nCourier services\nLocal delivery services",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9969": [
+        "Electricity charges",
+        "Reimbursement of electricity charges\nReimbursement of common electricity\nElectricity for cooling tower\nDG Running charges, aircondition charges\n",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9972": [
+        "Real estate services",
+        "Rental/leasing services involving property  \nRental or Leasing services on non-residential property\nRental on car parking\nLease rent\nRent for premises\nRent charges\nLicense fees in respect of the premises\nMonthly license fee\nRent/fee/lease rent paid for land or building\nSecurity deposit for hiring premises\nStay and composite charges",
+        "194I",
+        0.1
+    ],
+    "9973": [
+        "Royalty",
+        "Transfer or use of IP (intellectual property) rights  \nLicensing services for the right to use computer software/right to broadcast/right to reprint and copy books,journals/right to use R&D products",
+        "194J",
+        0.1
+    ],
+    "9982": [
+        "Legal and accounting services",
+        "Legal and accounting services\nLegal services by an advocate  \nLegal advisory and representation services\nLegal documentation and certification services\nArbitration and conciliation services\nFinancial auditing services\nAccounting/bookkeeping services\nPayroll services\nTax consultancy/preparation/advisory services\nInsolvency and receivership services\nStanding fee\nAppearance fee\nReferral fee\nProfessional tax registration\nCertification/arbitration fee\nAuditing services\nContingency fees\nRetainer fee\nAppointment charges\nConducting Title Search, reviewing documents and preparation of Due Diligence Report with respect to the premises\nChartered accountant services\nDrafting legal documents",
+        "194J",
+        0.1
+    ],
+    "9983": [
+        "Services by a veterinary clinic",
+        "Health care services in relation to animals/birds\nManagement consulting and management services/ information technology services  \nFinancial/strategic/human resources/marketing/operations/supply chain management services\nBusiness consulting services\nIT design/development/infrastructure provisioning services\nNetwork management services\nArchitectural services\nProject site planning services\nUrban planning services\nEngineering services\nProject management services\nScientific services\nSubsurface surveying services\nWeather forecasting and meteorological services\nTechnical testing\nVeterinary services\nMarket research services\nPhotography services\nInformation technologies software service\nProfessional charges towards the Individual coaching intervention\nArchitectural & MEP Services Design\nEffective presentations\nRetainership fees for professional services\nProfessional and consultancy charges in connection with services provided under various labour laws\nFMS : system engineer\nTechnical consultancy charges\nSoftware development charges for on-site development of new modules\nFee for services rendered \nProfessional/specialized/skilled/expert services\nRemuneration to doctors \nComputer consultancy services\nComputing consultancy\nBusiness and technology services\nIT advisory\nDesigning/testing of machines/systems/structure\nAsset management services\nMonitoring and evaluation services\nManagement consultancy services\nSoftware development\nInvestment planning services\nFinancial risk management services\nTraining expenses\nCommunication skills program charges",
+        "194J",
+        0.1
+    ],
+    "9984": [
+        "Telecommunications, broadcasting and information supply services",
+        "Telephony services\nCarrier services\nMobile telecommunications service\nData transmission service\nInternet backbone/access services\nNews agency services\nLibrary services\nSoftware downloads",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9985": [
+        "Cleaning services",
+        "Sanitary pad vending machine",
+        "194I",
+        0.02
+    ],
+    "9987": [
+        "Maintenance , repair and installation services",
+        "Maintenance and repair services\nInstallation services of equipment/machinery/computers/instruments\nReplacing old parts with new parts\nInstallation and commissioning charges \nReimbursement towards maintenance and AMC\nmaintenance and AMC charges\nAnnual maintenance contract (As per your purchase order no DG-2015042401 dated 24.04.2015 for the contract value of Rs. 2,10,000)\nComponent charges and service charges\nGenerator charges, consumption charges, BTU consumption\nMaintenance charges",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9988": [
+        "Manufacturing services on physical inputs owned by others",
+        "Job work in relation to printing of newspapers/textile products/jewellery/printing of books\nManufacturing services on physical inputs owned by customer\nPre-conditioning/pre-cooling/ripening/waxing/packing/labelling of goods  \nFood/beverage manufacturing services\nMeat/fish/fruits vegetables processing services\nDairy product manufacturing services\nTextile/leather manufacturing services\nWood product/paper/chemical product manufacturing services\nRubber and plastic/basic metal manufacturing services\nFabricated metal product/machinery and equipment/computer manufacturing services\nTransport equipment/motor vehicle manufacturing services\nFurniture/jewellery/instrument/sports goods/toy manufacturing services\nStitching of fabric\nProcessing of goods supplied by others",
+        "194C",
+        "1% (HUF/Individuals)\n2% (Others)"
+    ],
+    "9993": [
+        "Human health and social care services",
+        "Inpatient services\nMedical and dental services\nChildbirth services\nNursing services\nAmbulance services\nMedical laboratory services\nResidential health care services\n\n  ",
+        "194J",
+        0.1
+    ]
+}
